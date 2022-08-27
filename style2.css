@@ -1,0 +1,28 @@
+h1{
+    color:darkblue;
+
+
+}
+h2{
+    color:#5594fa;
+
+}
+h3{
+    color:rgb(120, 170, 250);
+
+}
+h4{
+color:hsl(217, 82%, 78%)
+
+}
+
+div{
+    width:35%;
+    height:auto;
+    border-radius:20px;
+    text-align: center;
+    background-image:linear-gradient(to bottom right,yellow,darkred);
+    border:5px solid darkred;
+    padding:30px;
+
+}
